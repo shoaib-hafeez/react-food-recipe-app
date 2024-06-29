@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+.logo_text{
+    height: 30px;
+    width: 150px;
+}
+.nav_bar{
+    display: flex;
+    color: black;
+    gap: 20px;
+}
+.nav_links{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.serach_icon{
+    height: 30px;
+    width: 30px;
+}

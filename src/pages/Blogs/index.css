@@ -1,0 +1,45 @@
+.blog_haeding{
+    font-size: 30px;
+    padding-left: 20px;
+}
+.blog_card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    padding: 20px;
+    box-shadow: 5px 5px 50px 1px;
+    background-color: rgb(233, 228, 228);
+    margin: 0 auto;
+}
+.blog_card_text{
+    width: 500px;
+}
+.cheese_cake_img{
+    width: 500px;
+    height: 300px;
+}
+.cheese_cake_img img{
+
+    width: 500px;
+    height: 300px;
+}
+
+.read_more_btn{
+    background-color: #B55D51F8;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.all_blog{
+    display: grid;
+    grid-template-columns:auto auto ;
+    justify-content: space-around;
+    padding-top: 100px;
+    gap: 20px;
+}
+.all_blog_card{
+    width: 400px;
+    height: 350px;
+    padding-bottom: 50px;
+}

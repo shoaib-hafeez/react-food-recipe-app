@@ -1,0 +1,51 @@
+.footer{
+    background: #F5F5F5;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.container1{
+    width: 250px;
+}
+.footer_logo_img{
+        height: 40px;
+        width: 40px;
+}
+.footer_txt_img{
+    height: 40px;
+    width: 100px;
+}
+.container2{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    width: 500px;
+}
+.footer_link{
+    text-decoration: none;
+    color: black;
+}
+.container3{
+    text-align: center;
+}
+.container3 input{
+    border-radius: 5px;
+    width: 340px;
+    height: 25px;
+    color: grey;
+    border: 3px solid grey;
+}
+.sub_btn{
+    width: 350px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background: #B55D51F8;
+    margin-top: 10px;
+}
+
+.container4{
+    background-color: #F5F5F5;
+    padding: 40px;    
+}

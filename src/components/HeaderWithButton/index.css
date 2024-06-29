@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+img{
+    height: 30px;
+    width: 30px;
+}
+.logo_text{
+    height: 30px;
+    width: 150px;
+}
+.nav_bar{
+    display: flex;
+    color: black;
+    gap: 20px;
+}
+.nav_links{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.serach_icon{
+    height: 30px;
+    width: 30px;
+}
+.login_btn_for_jumpo{
+    background: white;
+    padding: 10px 20px;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.signup_btn_for_jumpo{
+    background: #B55D51F8;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

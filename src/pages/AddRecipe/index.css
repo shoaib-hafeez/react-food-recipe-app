@@ -1,0 +1,64 @@
+.form_box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 50px;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 200px;
+}
+input{
+    width: 400px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.img_select_box{
+    height: 200px;
+    text-align: center;
+}
+textarea{
+    width: 400px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.select_cuisine,
+.select_collection
+{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.wraper_nutrition{
+    display: grid;
+    grid-template-columns: auto auto auto auto
+}
+.nut{
+    width: 100px;
+    margin-right: 20px;
+}
+
+.nut1 {
+    width: 180px;
+    padding-left: 20px;
+    margin-right: 20px;
+}
+.sub_btn{
+    background: #B55D51F8;
+    padding: 10px 50px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 500px;
+}
+.create_recipe_heading{
+    padding-left: 50px;
+}

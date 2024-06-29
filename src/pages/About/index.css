@@ -1,0 +1,38 @@
+.about_wraper{
+    padding: 0px 100px;
+}
+.about_card_wraper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.image_box{
+    width: 50%;
+    height: 300px;
+}
+.card1{
+    width: 500px;
+    height: 300px;
+}
+.text_box{
+    width: 50%;
+    height: 300px;
+}
+.our_team{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+}
+.our_team_heading{
+    text-align: center;
+}
+.grey{
+    color: grey;
+}
+.profile img{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
